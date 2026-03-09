@@ -14,7 +14,7 @@ This project analyzes the requirements, stakeholders, and process workflows nece
 
 - Regulatory compliance with NPCI and Reserve Bank of India guidelines
 - Ensuring secure and reliable payment transactions
-- Competing with established UPI payment platforms
+- Competing with established UPI payment platforms 
 - Achieving rapid user adoption within an already competitive market
 
 ## Project Objective
