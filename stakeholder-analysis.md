@@ -17,7 +17,7 @@ The successful implementation of WhatsApp Pay requires coordination between seve
 - UPI Network (NPCI) – Payment infrastructure provider
 - Regulators – Reserve Bank of India and other financial regulators
 
-## Key Risks
+## Key Risks 
 
 - Payment transaction failures
 - Security vulnerabilities or fraud attempts
