@@ -38,3 +38,9 @@ The analysis also includes process workflow design, risk considerations, and str
 ## Repository Purpose
 
 This repository demonstrates structured business analysis and product thinking applied to a fintech payment solution. It is intended as a portfolio project illustrating capabilities in stakeholder analysis, process design, and requirements definition.
+
+## Process Flow Diagrams
+
+The payment workflow diagrams can be viewed here:
+
+[Process Flow Documentation](process-flow/process-diagrams.md)
